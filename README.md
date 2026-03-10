@@ -62,7 +62,7 @@ assign borrow= ( ( ~a & b)| ( bin & (~(a ^ b ))));
 endmodule
 ```
  Developed by:HARIHARAN GANESH
- RegisterNumber:25017580
+ RegisterNumber:212225040111
 
 
 **RTL Schematic**
